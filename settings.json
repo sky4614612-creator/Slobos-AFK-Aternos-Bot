@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KNAK.aternos.me",
+    "port": 20300,
     "version": "",
     "try-creative": false
   },
